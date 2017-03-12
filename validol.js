@@ -1,3 +1,4 @@
+//Copyright  2017   Shur Kirill   -==MIT==-
 (function($){
  
  'use strict';
