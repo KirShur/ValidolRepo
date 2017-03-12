@@ -1,5 +1,3 @@
-# ValidolRepo
-#Shur Kirill 2017 MIT
 
 For regular text input with chars range boolean return value
 $(selector).validolInput(max,min);
