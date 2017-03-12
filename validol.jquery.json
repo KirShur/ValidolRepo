@@ -25,8 +25,8 @@
     ],
     "bugs": "https://github.com/KirShur/ValidolRepo",
     "homepage": "https://github.com/KirShur/ValidolRepo",
-    "docs": "https://github.com/KirShur/ValidolRepo",
-    "download": "http://code.jquery.com/#color",
+    "docs": "https://github.com/KirShur/ValidolRepo/blob/master/README.md",
+    "download": "https://github.com/KirShur/ValidolRepo/blob/master/validol.min.js",
     "dependencies": {
         "jquery": ">=1.5"
     }
