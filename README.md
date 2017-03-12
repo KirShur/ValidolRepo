@@ -1,4 +1,4 @@
-
+ 
 For regular text input with chars range boolean return value
 $(selector).validolInput(max,min);
 
